@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(224, 210, 183);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.hola{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.conternedor{
+    margin-top:10%;
+}
+.botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.botones img{
+    width: 90px;
+    height: 90px;
+    cursor: pointer;
+}
+.botones button{
+    margin-left: 10px;
+    border-radius: 4px;
+}
+.serie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.serie img{
+    margin-top: 5%;
+    margin-bottom: 6%;
+    width: 120px;
+    height: 120px;
+}
+.si{
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
